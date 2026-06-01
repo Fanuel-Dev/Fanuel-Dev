@@ -1,4 +1,5 @@
 <!-- Premium Animated Header Banner -->
+<img src="fanuel.png" alt="">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=FANUEL%20BELAY&fontSize=42&fontAlignY=45&animation=twinkling" width="100%"/>
 </p>
