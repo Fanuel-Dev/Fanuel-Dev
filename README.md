@@ -16,6 +16,20 @@
 
   <!-- Live Traffic Analytics Badge -->
   <p align="left">
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Fanuel-Dev). 
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/fanueldev).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
     <a href="#-work-with-me">
       <img src="https://komarev.com/ghpvc/?username=FanuelBelay&label=ENGINE%20TRAFFIC%20VIEWS&color=8A2BE2&style=for-the-badge&logo=activity" alt="System Traffic Views" />
     </a>
