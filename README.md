@@ -1,12 +1,11 @@
-<!-- Top Decorative Header Wavy Banner -->
-![Fanuel Belay Banner Image](./fanuel.png)
+<!-- Top Decorative Header Animated Wavy Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=FANUEL%20BELAY&fontSize=42&fontAlignY=40&animation=twinkling" width="100%"/>
 </p>
 
-<!-- Left/Right Split Intro Panel -->
+<!-- Intro Panel with Float-Right Graphic -->
 <div align="left">
-  <img align="right" width="38%" src="Popper.psd.full.png" alt="Engineering Owl" style="padding: 10px; margin-top: -20px;">
+  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Engineering Owl" style="padding: 10px; margin-top: -20px;">
   
   <h2>⚡ Executive & Full-Stack Systems Engineer</h2>
   <p>💡 <em>Building intelligent digital infrastructure, scalable automation architectures, and data-driven marketing systems.</em></p>
@@ -31,7 +30,7 @@
 ```💡 Architectural Focus: High-Availability APIs | Financial Automation | Distributed Data Engine Structures```
 
 - 🌐 **Full-Stack Engineering:** Architecture design using resilient Node.js ecosystems, Python services, and responsive Tailwind UI layers.
-- 📉 **FinTech & Automation:** Developer of complex trading bots (Titanium Engine series) leveraging data streams and execution layers.
+- 📉 **FinTech & Automation:** Developer of complex trading bots leveraging data streams and execution layers.
 - 📣 **Digital Systems Growth:** Engineering high-CTR algorithmic marketing systems and multi-channel technical content generation pipelines.
 
 ---
