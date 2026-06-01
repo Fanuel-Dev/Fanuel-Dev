@@ -49,16 +49,33 @@
 *   **📣 High-Conversion Digital Marketing Systems:** Structuring algorithmically sound web spaces, user acquisition systems, and impactful developer branding solutions to gain market traction.
 
 ---
-
+<br clear="right" />
 ### 🛠 System Core Architecture (Tech Stack)
 
-<p align="center">
+<div align="left">
+  <!-- Right-aligned animated gif tool matrix -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Dynamic Animated Tech Matrix" src="./Skills_Animation_White.gif" width="100%">
+    <img align="right" alt="Dynamic Tech Stack Matrix" src="./Skills_Animation_White.gif" width="45%" style="margin-left: 15px; margin-bottom: 15px;">
   </picture>
-</p>
+
+  <h4>⚡ Deployed Production Technologies</h4>
+  <ul>
+    <li><code>Backend Engines</code> Node.js | Python | RESTful & GraphQL APIs</li>
+    <li><code>Data Architecture</code> PostgreSQL | MongoDB | Redis Clusters</li>
+    <li><code>UI/UX Layering</code> React.js | Next.js Engine | Tailwind CSS</li>
+  </ul>
+
+  <h4>🧪 R&D / Advanced Implementations</h4>
+  <ul>
+    <li><code>Quantitative AI</code> Trading strategy modeling & algorithmic bot execution</li>
+    <li><code>Agentic Systems</code> Model Context Protocol (MCP) server engineering</li>
+    <li><code>Cloud Infrastructure</code> Scale-optimized automated deployment pipelines</li>
+  </ul>
+</div>
+
+<br clear="right" />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
