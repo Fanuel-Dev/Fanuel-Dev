@@ -1,11 +1,12 @@
 <!-- Top Decorative Header Wavy Banner -->
+![Fanuel Belay Banner Image](./fanuel.png)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=FANUEL%20BELAY&fontSize=42&fontAlignY=40&animation=twinkling" width="100%"/>
 </p>
 
 <!-- Left/Right Split Intro Panel -->
 <div align="left">
-  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Engineering Owl" style="padding: 10px; margin-top: -20px;">
+  <img align="right" width="38%" src="Popper.psd.full.png" alt="Engineering Owl" style="padding: 10px; margin-top: -20px;">
   
   <h2>⚡ Executive & Full-Stack Systems Engineer</h2>
   <p>💡 <em>Building intelligent digital infrastructure, scalable automation architectures, and data-driven marketing systems.</em></p>
