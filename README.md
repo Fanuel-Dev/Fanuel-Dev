@@ -1,8 +1,6 @@
 <!-- Premium Animated Header Banner -->
 <img src="fanuel.png" alt="">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=FANUEL%20BELAY&fontSize=42&fontAlignY=45&animation=twinkling" width="100%"/>
-</p>
+
 
 <!-- Executive Introduction Grid -->
 <div align="left">
@@ -89,13 +87,11 @@
 
 <h3 align="center">🏆 System Milestone Achievements</h3>
 <p align="center">
-  <a href="https://github.com/FanuelBelay">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&row=1&column=6&theme=dracula&margin-w=15">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&row=1&column=6&margin-w=15">
       <img alt="System Milestone Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=FanuelBelay&no-bg=true&no-frame=true&row=1&column=6">
     </picture>
-  </a>
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
