@@ -1,5 +1,5 @@
-<!-- Premium Animated Header Banner -->
-<img src="faneldev.jpg" alt="">
+<img width="1200" height="1200" alt="Untitled design" src="https://github.com/user-attachments/assets/2a29dd8b-c071-4295-9127-c9f08c48a6fe" /><!-- Premium Animated Header Banner -->
+<img src="fanuel12.jpg" alt="">
 
 
 <!-- Executive Introduction Grid -->
